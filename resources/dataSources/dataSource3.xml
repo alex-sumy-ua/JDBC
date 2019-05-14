@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dataSources "dataSource.dtd">
+<root>
+    <oracle>
+        <connection value="jdbc:oracle:thin:@10.220.140.48:1521:test1" />
+        <user value="secretOracleUsername" />
+        <password value="111" />
+    </oracle>
+</root>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datasources>
+    <datasource>
+        <source-name>oracle-jdbc</source-name>
+        <driver-class>oracle.jdbc.OracleDriver</driver-class>
+        <connection-url>jdbc:oracle:thin:@localhost:1521:XE</connection-url>
+        <user-name>alex-ua</user-name>
+        <password>prpf+911</password>
+    </datasource>
+</datasources>
